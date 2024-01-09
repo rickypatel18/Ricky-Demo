@@ -1,4 +1,4 @@
 # Ricky-Demo
 This is first repo.
 <br>
-Author - Ricky Patel
+Author - Ricky Patel (noob)
